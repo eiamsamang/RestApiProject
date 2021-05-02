@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sRsJfXBzxuOnTbPcjALsiTC6tXOKyragbsP6Bdxw5vLIRaNVCHTIMThU2J8FM6F+oH1lHa0UQWB/DjfFUsej0g==",
+  "success": true,
+  "projectFilePath": "/Users/chai/Projects/Video_Project/RestApiProject/RestApiProject.csproj",
+  "expectedPackageFiles": [
+    "/Users/chai/.nuget/packages/restsharp/106.11.7/restsharp.106.11.7.nupkg.sha512"
+  ],
+  "logs": []
+}

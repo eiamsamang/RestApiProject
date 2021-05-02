@@ -1,0 +1,17 @@
+/Users/chai/Projects/Video_Project/RestApiProject/bin/Debug/net5.0/RestApiProject.deps.json
+/Users/chai/Projects/Video_Project/RestApiProject/bin/Debug/net5.0/RestApiProject.runtimeconfig.json
+/Users/chai/Projects/Video_Project/RestApiProject/bin/Debug/net5.0/RestApiProject.runtimeconfig.dev.json
+/Users/chai/Projects/Video_Project/RestApiProject/bin/Debug/net5.0/RestApiProject.dll
+/Users/chai/Projects/Video_Project/RestApiProject/bin/Debug/net5.0/ref/RestApiProject.dll
+/Users/chai/Projects/Video_Project/RestApiProject/bin/Debug/net5.0/RestApiProject.pdb
+/Users/chai/Projects/Video_Project/RestApiProject/bin/Debug/net5.0/RestSharp.dll
+/Users/chai/Projects/Video_Project/RestApiProject/obj/Debug/net5.0/RestApiProject.csprojAssemblyReference.cache
+/Users/chai/Projects/Video_Project/RestApiProject/obj/Debug/net5.0/RestApiProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chai/Projects/Video_Project/RestApiProject/obj/Debug/net5.0/RestApiProject.AssemblyInfoInputs.cache
+/Users/chai/Projects/Video_Project/RestApiProject/obj/Debug/net5.0/RestApiProject.AssemblyInfo.cs
+/Users/chai/Projects/Video_Project/RestApiProject/obj/Debug/net5.0/RestApiProject.csproj.CoreCompileInputs.cache
+/Users/chai/Projects/Video_Project/RestApiProject/obj/Debug/net5.0/RestApiProject.csproj.CopyComplete
+/Users/chai/Projects/Video_Project/RestApiProject/obj/Debug/net5.0/RestApiProject.dll
+/Users/chai/Projects/Video_Project/RestApiProject/obj/Debug/net5.0/ref/RestApiProject.dll
+/Users/chai/Projects/Video_Project/RestApiProject/obj/Debug/net5.0/RestApiProject.pdb
+/Users/chai/Projects/Video_Project/RestApiProject/obj/Debug/net5.0/RestApiProject.genruntimeconfig.cache
